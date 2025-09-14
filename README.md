@@ -9,10 +9,6 @@
 [![GitHub Commits](https://img.shields.io/github/commit-activity/y/Artyom151-r/vscode-remake?color=%237b4dff&label=Commits&logo=git)](https://github.com/Artyom151-r/vscode-remake/commits/main)
 [![GitHub Last Commit](https://img.shields.io/github/last-commit/Artyom151-r/vscode-remake?color=%238a6eff&label=Last%20Update&logo=git)](https://github.com/Artyom151-r/vscode-remake/commits/main)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Artyom151-r/vscode-remake/assets/logo.png" alt="VSCode Remake Screenshot" width="800">
-</p>
-
 ---
 ## ✨ О проекте
 
